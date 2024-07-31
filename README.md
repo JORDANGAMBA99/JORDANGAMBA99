@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jordan Gamba</h1>
-<h3 align="center">I am passionate data analyst who cares about its impact on this blue rock called Earth 🌎</h3>
+<h3 align="center">I am passionate data analyst who cares about its impact on this blue rock 🌎 we call HOME 🏠</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jordangamba99&label=Profile%20views&color=0e75b6&style=flat" alt="jordangamba99" /> </p>
 
