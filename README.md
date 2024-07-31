@@ -5,15 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jordangamba99" alt="jordangamba99" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/gamba_jordan" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/gamba_jordan?logo=twitter&style=for-the-badge" alt="https://twitter.com/gamba_jordan" /></a> </p>
+
 
 - 📝 I regularly write articles on [https://dev.to/jordan_gamba](https://dev.to/jordan_gamba)
 
 - 📫 How to reach me **jordangamba1999@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
